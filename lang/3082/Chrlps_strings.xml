@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Chrlps>Cheirolepis</Chrlps>
+      <Chrlps_stt>Cheirolepis</Chrlps_stt>
+      <Chrlps_lower>El Cheirolepis</Chrlps_lower>
+      <Chrlps_ltt>
+         <color r="255" g="248" b="178">
+            <b>Cheirolepis</b>
+         </color>
+         <br/>
+         Haga clic y seleccione un Cheirolepis.
+      </Chrlps_ltt>
+</entityname>
+<zoopedia_chrlps>
+ <entry>Cheirolepis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Chrlps/Chrlps_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_coast.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Actinopterygii <i>(Actinoptera)</i><br/>Orden: Cheirolepidiformes <i>(Palaeoniscimorpha)</i><br/>Familia: Cheirolepididae <i>(Cheirolepis)</i><br/>Gender: <i>Cheirolepis</i><br/>Especie: <i>C. Trailli</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos del Cheirolepis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Cheirolepis es el unico genero de su familia.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Cheirolepis media unos 55 cm.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Cheirolepis necesitas 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Cheirolepis es un pez de aletas radiadas que vivio durante el Devonico en Europa y America del Norte. Es el unico genero que se conoze deltro de los Cheirolepididos. Es uno de los Actinopterigios y el primer pez con huesos dermicos en el craneo. Era un pez depredador similar a los acanthodios. Cheirolepis tenia aletas bien desarrolladas que le dieron velocidad y estabilidad, y probablemente era un depredador activo. Basandose en el tamaño de sus ojos, perseguia por la vista. Las mandibulas del Cheirolepis, con dientes afilados alineados, se puede abrir ampliamente, lo que le permite tragar presas dos tercios de su propio tamaño.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de Wikipedia
+  <p/>Hecho por imago
+  </cell>
+ </text>
+</zoopedia_chrlps>
+</ZT2Strings>
